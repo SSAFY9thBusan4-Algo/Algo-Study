@@ -106,8 +106,8 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 ### 🚩 week 1
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 13460 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) | BFS | gold2 |
-| BOJ | 20055 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | 시뮬 | silver1 |
-| BOJ | 17142 | [연구소 3](https://www.acmicpc.net/problem/17142) | BFS | gold4 |
-| BOJ | 14891 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | 시뮬| silver1 |
+| BOJ | 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | 브루트포스 | silver3 |
+| BOJ | 1476 | [날짜 계산](https://www.acmicpc.net/problem/1476) | 브루트포스 | silver5 |
+| BOJ | 1107 | [리모컨](https://www.acmicpc.net/problem/1107) | 브루트포스 | gold4 |
+| BOJ | 6064 | [카잉 달력](https://www.acmicpc.net/problem/6064) | 브루트포스| silver1 |
 
