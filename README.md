@@ -96,7 +96,7 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 		이 때의 commit message는 2️⃣ Commit Convention에서 언급한 규칙에 맞게 설정합니다.
 		3. 이 때 반드시 (a)에서 생성한 branch로 push 되는지 확인합니다.
 		4. 본인 계정의 fork된 repo에서 Pull Request을 작성할 때,   
-		코드가 push된 브랜치(a에서 생성한 jodawoooon/boj-1051)에서   
+		코드가 push된 브랜치(a에서 생성한 jihong/boj-1051)에서   
 		organization repo의 main 브랜치로 Pull Request를 보냅니다.
 
 
