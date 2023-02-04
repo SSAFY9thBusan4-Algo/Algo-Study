@@ -1,3 +1,5 @@
+package week1.BOJ_1107_G5_리모컨;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
