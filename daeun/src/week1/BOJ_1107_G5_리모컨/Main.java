@@ -1,5 +1,3 @@
-package week1.BOJ_1107_G5_리모컨;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
@@ -29,14 +27,14 @@ public class Main {
 		System.out.println(min);
 	}
 	private static void solve(int count, int channel) {
-		if(over<count) { 
-			return;
-		}
 		min = Math.min(min, count+Math.abs(N-channel));
 		for(int i=0;i<10;i++) {
 			if(broken[i]) {
 				continue;
 			}
+            if(over<count+1) { 
+			    return;
+		    }
 			solve(count+1, channel*10 + i);
 		}
 	}
