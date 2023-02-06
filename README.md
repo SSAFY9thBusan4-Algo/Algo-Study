@@ -118,6 +118,6 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | BOJ | 10972 | [다음 순열](https://www.acmicpc.net/problem/10972) | 재귀 | silver3 |
 | BOJ | 11727 | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | DP | silver3 |
 | BOJ | 10866 | [덱](https://www.acmicpc.net/problem/10866) | 덱 | silver4 |
-| BOJ | 7576 | [덱](https://www.acmicpc.net/problem/7576) | 그래프 | gold5 |
+| BOJ | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | 그래프 | gold5 |
 
 
