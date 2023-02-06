@@ -108,6 +108,16 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | -- |--| -- |--|--|
 | BOJ | 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | 브루트포스 | silver3 |
 | BOJ | 1476 | [날짜 계산](https://www.acmicpc.net/problem/1476) | 브루트포스 | silver5 |
-| BOJ | 1107 | [리모컨](https://www.acmicpc.net/problem/1107) | 브루트포스 | gold4 |
+| BOJ | 1107 | [리모컨](https://www.acmicpc.net/problem/1107) | 브루트포스 | gold5 |
 | BOJ | 6064 | [카잉 달력](https://www.acmicpc.net/problem/6064) | 브루트포스| silver1 |
+
+### 🚩 week 2
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | DP, 브루트포스 | silver3 |
+| BOJ | 10972 | [다음 순열](https://www.acmicpc.net/problem/10972) | 재귀 | silver3 |
+| BOJ | 11727 | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | DP | silver3 |
+| BOJ | 10866 | [덱](https://www.acmicpc.net/problem/10866) | 덱 | silver4 |
+| BOJ | 7576 | [덱](https://www.acmicpc.net/problem/7576) | 그래프 | gold5 |
+
 
