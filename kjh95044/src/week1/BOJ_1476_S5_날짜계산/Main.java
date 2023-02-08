@@ -8,7 +8,6 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 public class Main {
-
 	public static boolean isFoundNomalButton(int target, List<Integer> brokenButtons) {
 		boolean isFound = false;
 		for (int bb : brokenButtons) {
@@ -82,5 +81,6 @@ public class Main {
 		}
 
 		System.out.println(result);
+
 	}
 }
