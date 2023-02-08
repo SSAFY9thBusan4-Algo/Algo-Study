@@ -65,7 +65,7 @@ public class Main {
             resultArray = Arrays.copyOf(array, N);	//해당 index 앞부분으로는 똑같이 채우려고
             sortingList = new ArrayList<int[]>();
             //System.out.println(index-1);
-            findList(index-1);		//순열
+            findList(index-1, array[index-1]);		//순열
             
             int result = -1;	//sortingList에서 입력받은 array의 index를 찾음
             for(int idx = 0; idx < sortingList.size(); idx++) {
@@ -92,19 +92,20 @@ public class Main {
         System.out.println(sb);
     }
     
-    private static void findList(int cnt) {
+    private static void findList(int cnt, int start) {
         
         if(cnt == N) {
+        	System.out.println(Arrays.toString(resultArray));
             sortingList.add(resultArray.clone());
             return;
         }
         
-        for(int i = 1 ; i <= N ; i++) {
+        for(int i = start ; i <= N ; i++) {
             if(isChecked[i]) continue;
             
             isChecked[i] = true;
             resultArray[cnt] = i;
-            findList(cnt+1);
+            findList(cnt+1, 1);
             
             isChecked[i] = false;
         }
