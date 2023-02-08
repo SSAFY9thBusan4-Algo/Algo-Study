@@ -55,7 +55,7 @@ public class Main {
 				catch(NoSuchElementException e) {
 					return -1;
 				}
-			case 'b' : //pop_front
+			case 'b' : //pop_back
 				try {
 					return list.removeLast();
 				}
@@ -68,10 +68,10 @@ public class Main {
 	}
 	private static void push(String command) {
 		int num = Integer.parseInt(command.split(" ")[1]);
-		if(command.charAt(5) == 'f') {
+		if(command.charAt(5) == 'f') {	//push_front
 			list.addFirst(num);
 		}
-		else {
+		else {		//push_back
 			list.addLast(num);
 		}
 	}
