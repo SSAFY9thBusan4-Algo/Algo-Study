@@ -40,6 +40,7 @@ public class Main {
 
 	}
 
+	// 토마토가 익는데 걸리는 날만큼 반복되는 재귀함수
 	private static void ripener(){
 		int ripen_cnt = ripen.size();
 
