@@ -23,6 +23,7 @@ public class Main {
 			
 			String[] str = in.readLine().split(" ");
 			String ord = str[0];
+			
 			if (str.length == 1) {				
 				if (ord.equals("size")) {
 					sb.append(deque.size()+"\n");
