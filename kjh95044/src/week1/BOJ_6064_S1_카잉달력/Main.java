@@ -1,3 +1,5 @@
+package week1.BOJ_6064_S1_카잉달력;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
