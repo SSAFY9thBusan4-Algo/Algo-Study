@@ -132,4 +132,10 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | BOJ | 10866 | [덱](https://www.acmicpc.net/problem/10866) | 덱 | silver4 |
 | BOJ | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | 그래프 | gold5 |
 
-
+### 🚩 week 3
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) |  | silver1 |
+| BOJ | 1991 | [트리 순회](https://www.acmicpc.net/problem/1991) |  | silver1 |
+| BOJ | 9084 | [동전](https://www.acmicpc.net/problem/9084) |  | gold5 |
+| PRG | 60058 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | | LV.2 |
