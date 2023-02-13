@@ -11,7 +11,7 @@ public class Main {
 		
 		int n = sc.nextInt();
 
-        // int[] dp = new int[n+1];  이렇게 하니 ArrayOutOfBounds 뜸..
+        // int[] dp = new int[n+1];  이렇게 하니 ArrayOutOfBounds 뜸.. -> n+2 하면 해결!
 		int[] dp = new int[1001];
         dp[1] = 1;
         dp[2] = 3;
