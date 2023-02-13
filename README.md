@@ -2,11 +2,23 @@
 
 SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 
- - [ ] 부울경 4반 김지홍
- - [ ] 부울경 4반 강다은
- - [ ] 부울경 4반 강소현
- - [ ] 부울경 4반 최영은
- - [ ] 부울경 4반 정효인
+## 🙋🏻‍♂️ Contributors
+<table>
+  <tr>
+   <td align="center"><a href="https://github.com/kjh95044"><img src="https://avatars.githubusercontent.com/u/48514956?v=4" width="120px;" alt=""/><br /><sub><b>김지홍</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/da010228"><img src="https://avatars.githubusercontent.com/u/69593799?v=4" width="120px;" alt=""/><br /><sub><b>강다은</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Ksohyeon"><img src="https://avatars.githubusercontent.com/u/110150957?s=96&v=4" width="120px;" alt=""/><br /><sub><b>강소현</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/YoungEun-Choi930"><img src="https://avatars.githubusercontent.com/u/69569809?s=96&v=4" width="120px;" alt=""/><br /><sub><b>최영은</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/HyoinJeong"><img src="https://avatars.githubusercontent.com/u/52451420?s=64&v=4" width="120px;" alt=""/><br /><sub><b>정효인</b></sub></a><br /></td>
+  </tr>
+</table>
+
+<br><br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjh9504)](https://solved.ac/kjh9504)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=da010228)](https://solved.ac/da010228)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thgusrkd0120)](https://solved.ac/thgusrkd0120)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duddms0190)](https://solved.ac/duddms0190)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiamy0107)](https://solved.ac/hiamy0107)
 <br><br>
 
 ## 📌 Rule
@@ -108,6 +120,22 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | -- |--| -- |--|--|
 | BOJ | 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | 브루트포스 | silver3 |
 | BOJ | 1476 | [날짜 계산](https://www.acmicpc.net/problem/1476) | 브루트포스 | silver5 |
-| BOJ | 1107 | [리모컨](https://www.acmicpc.net/problem/1107) | 브루트포스 | gold4 |
+| BOJ | 1107 | [리모컨](https://www.acmicpc.net/problem/1107) | 브루트포스 | gold5 |
 | BOJ | 6064 | [카잉 달력](https://www.acmicpc.net/problem/6064) | 브루트포스| silver1 |
 
+### 🚩 week 2
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | DP, 브루트포스 | silver3 |
+| BOJ | 10972 | [다음 순열](https://www.acmicpc.net/problem/10972) | 재귀 | silver3 |
+| BOJ | 11727 | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | DP | silver3 |
+| BOJ | 10866 | [덱](https://www.acmicpc.net/problem/10866) | 덱 | silver4 |
+| BOJ | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | 그래프 | gold5 |
+
+### 🚩 week 3
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) |  | silver1 |
+| BOJ | 1991 | [트리 순회](https://www.acmicpc.net/problem/1991) |  | silver1 |
+| BOJ | 9084 | [동전](https://www.acmicpc.net/problem/9084) |  | gold5 |
+| PRG | 60058 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | | LV.2 |
