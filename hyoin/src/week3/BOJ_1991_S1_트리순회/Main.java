@@ -91,7 +91,7 @@ public class Main {
 	private static void postOrder(Node node) {
 		if (node != null) {
 			postOrder(node.leftNode);
-			preOrder(node.rightNode);
+			postOrder(node.rightNode);
 			sb.append(node.data);
 		}
 	}
