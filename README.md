@@ -146,5 +146,5 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | BOJ | 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) |  | silver1 |
 | BOJ | 2096 | [내려가기](https://www.acmicpc.net/problem/2096) |  | gold5 |
 | BOJ | 1495 | [기타리스트](https://www.acmicpc.net/problem/1495) |  | silver1 |
-| BOJ | 11057 | [동전](https://www.acmicpc.net/problem/11057) |  | silver1 |
+| BOJ | 11057 | [오르막 수](https://www.acmicpc.net/problem/11057) |  | silver1 |
 | PRG | 118666 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | | LV.1 |
