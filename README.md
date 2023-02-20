@@ -24,8 +24,8 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 ## 📌 Rule
 각자 문제를 선정하여 매주 4~12문제를 풉니다.
 매주 월요일 카카오톡 공지방에 댓글로 문제를 등록합니다.
-* ❗❗ 문제풀이 마감 : 매주 일요일 20:00 까지
-* ❕❕ 리뷰 마감 : 매주 월요일 23:59 까지
+* ❗❗ 문제풀이 마감 : 매주 월요일 23:59 까지
+* ❕❕ 리뷰 마감 : 매주 화요일 23:59 까지
 <br><br>
 
 ## 📌 Convention
@@ -135,7 +135,16 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 ### 🚩 week 3
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) |  | silver1 |
-| BOJ | 1991 | [트리 순회](https://www.acmicpc.net/problem/1991) |  | silver1 |
-| BOJ | 9084 | [동전](https://www.acmicpc.net/problem/9084) |  | gold5 |
-| PRG | 60058 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | | LV.2 |
+| BOJ | 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) |분할 정복, 재귀 | silver1 |
+| BOJ | 1991 | [트리 순회](https://www.acmicpc.net/problem/1991) | 트리, 재귀 | silver1 |
+| BOJ | 9084 | [동전](https://www.acmicpc.net/problem/9084) | DP | gold5 |
+| PRG | 60058 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | 구현 | LV.2 |
+
+### 🚩 week 4
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) |  | silver1 |
+| BOJ | 2096 | [내려가기](https://www.acmicpc.net/problem/2096) |  | gold5 |
+| BOJ | 1495 | [기타리스트](https://www.acmicpc.net/problem/1495) |  | silver1 |
+| BOJ | 11057 | [동전](https://www.acmicpc.net/problem/11057) |  | silver1 |
+| PRG | 118666 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | | LV.1 |
