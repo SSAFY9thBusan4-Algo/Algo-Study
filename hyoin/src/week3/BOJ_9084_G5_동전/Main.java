@@ -49,12 +49,10 @@ public class Main {
 			 */
 			int[] dp = new int[M + 1];
 			dp[0] = 1;
-			
 			for (int i = 0; i < N; i++) {
 				for (int j = coin[i]; j <= M; j++) {
 					dp[j] = dp[j] + dp[j - coin[i]];
 				}
-				System.out.println("dp "+coin[i]+" : "+"\t"+Arrays.toString(dp));
 			}
 			sb.append(dp[M]).append("\n");
 		}
