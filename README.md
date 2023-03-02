@@ -143,8 +143,16 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 ### 🚩 week 4
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) |  | silver1 |
-| BOJ | 2096 | [내려가기](https://www.acmicpc.net/problem/2096) |  | gold5 |
-| BOJ | 1495 | [기타리스트](https://www.acmicpc.net/problem/1495) |  | silver1 |
-| BOJ | 11057 | [오르막 수](https://www.acmicpc.net/problem/11057) |  | silver1 |
-| PRG | 118666 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | | LV.1 |
+| BOJ | 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | DP | silver1 |
+| BOJ | 2096 | [내려가기](https://www.acmicpc.net/problem/2096) | DP | gold5 |
+| BOJ | 1495 | [기타리스트](https://www.acmicpc.net/problem/1495) | DP | silver1 |
+| BOJ | 11057 | [오르막 수](https://www.acmicpc.net/problem/11057) | DP | silver1 |
+| PRG | 118666 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | 구현 | LV.1 |
+
+### 🚩 week 5
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 21608 | [상어 초등학교](https://www.acmicpc.net/problem/21608) |  | gold5 |
+| SWEA | 1953 | [탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq&categoryId=AV5PpLlKAQ4DFAUq&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2) |  | 역량테스트 |
+| SWEA | 2383 | [점심 식사시간](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl&categoryId=AV5-BEE6AK0DFAVl&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2) |  | 역량테스트 |
+| SWEA | 4014 | [활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH&categoryId=AWIeW7FakkUDFAVH&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |  | 역량테스트 |
