@@ -137,7 +137,6 @@ public class Main {
             if(flag) {
                 queue.offer(new Point(x, y));
                 visit[x][y] = true;
-                cnt++;
             }
         }
     }
