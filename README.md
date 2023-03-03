@@ -10,7 +10,7 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
     <td align="center"><a href="https://github.com/Ksohyeon"><img src="https://avatars.githubusercontent.com/u/110150957?s=96&v=4" width="120px;" alt=""/><br /><sub><b>강소현</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/YoungEun-Choi930"><img src="https://avatars.githubusercontent.com/u/69569809?s=96&v=4" width="120px;" alt=""/><br /><sub><b>최영은</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/HyoinJeong"><img src="https://avatars.githubusercontent.com/u/52451420?s=64&v=4" width="120px;" alt=""/><br /><sub><b>정효인</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/emoving"><img src="https://avatars.githubusercontent.com/u/52451420?s=64&v=4" width="120px;" alt=""/><br /><sub><b>정효인</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/emoving"><img src="https://avatars.githubusercontent.com/u/52451420?s=64&v=4" width="120px;" alt=""/><br /><sub><b>이동주</b></sub></a><br /></td>
   </tr>
 </table>
 
