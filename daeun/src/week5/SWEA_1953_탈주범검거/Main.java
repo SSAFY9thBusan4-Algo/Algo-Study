@@ -14,7 +14,7 @@ public class Main {
             super();
             this.x = x;
             this.y = y;
-        }
+        } 
     }
     public static boolean[][] visit;
     public static int cnt, n, m, r, c, l, map[][];
