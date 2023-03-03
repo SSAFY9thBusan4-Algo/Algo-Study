@@ -10,6 +10,7 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
     <td align="center"><a href="https://github.com/Ksohyeon"><img src="https://avatars.githubusercontent.com/u/110150957?s=96&v=4" width="120px;" alt=""/><br /><sub><b>강소현</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/YoungEun-Choi930"><img src="https://avatars.githubusercontent.com/u/69569809?s=96&v=4" width="120px;" alt=""/><br /><sub><b>최영은</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/HyoinJeong"><img src="https://avatars.githubusercontent.com/u/52451420?s=64&v=4" width="120px;" alt=""/><br /><sub><b>정효인</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/emoving"><img src="https://avatars.githubusercontent.com/u/52451420?s=64&v=4" width="120px;" alt=""/><br /><sub><b>정효인</b></sub></a><br /></td>
   </tr>
 </table>
 
@@ -19,6 +20,7 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thgusrkd0120)](https://solved.ac/thgusrkd0120)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duddms0190)](https://solved.ac/duddms0190)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiamy0107)](https://solved.ac/hiamy0107)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leednj0113)](https://solved.ac/leednj0113)
 <br><br>
 
 ## 📌 Rule
