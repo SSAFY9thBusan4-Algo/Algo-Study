@@ -163,7 +163,7 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 2252 | [줄세우기](https://www.acmicpc.net/problem/2252) |  | gold3 |
-| BOJ | 9209 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |  | gold5 |
+| BOJ | 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |  | gold5 |
 | BOJ | 10282 | [해킹](https://www.acmicpc.net/problem/10282) |  | gold4 |
 | BOJ | 13305 | [주유소](https://www.acmicpc.net/problem/13305) |  | silver3 |
 
