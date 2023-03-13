@@ -154,7 +154,16 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 ### 🚩 week 5
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 21608 | [상어 초등학교](https://www.acmicpc.net/problem/21608) |  | gold5 |
-| SWEA | 1953 | [탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq&categoryId=AV5PpLlKAQ4DFAUq&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2) |  | 역량테스트 |
-| SWEA | 2383 | [점심 식사시간](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl&categoryId=AV5-BEE6AK0DFAVl&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2) |  | 역량테스트 |
-| SWEA | 4014 | [활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH&categoryId=AWIeW7FakkUDFAVH&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |  | 역량테스트 |
+| BOJ | 21608 | [상어 초등학교](https://www.acmicpc.net/problem/21608) | 구현 | gold5 |
+| SWEA | 1953 | [탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq&categoryId=AV5PpLlKAQ4DFAUq&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2) | 구현 | 역량테스트 |
+| SWEA | 2383 | [점심 식사시간](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl&categoryId=AV5-BEE6AK0DFAVl&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2) | 구현 | 역량테스트 |
+| SWEA | 4014 | [활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH&categoryId=AWIeW7FakkUDFAVH&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | 역량테스트 |
+
+### 🚩 week 6
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 2252 | [줄세우기](https://www.acmicpc.net/problem/2252) |  | gold3 |
+| BOJ | 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |  | gold5 |
+| BOJ | 10282 | [해킹](https://www.acmicpc.net/problem/10282) |  | gold4 |
+| BOJ | 13305 | [주유소](https://www.acmicpc.net/problem/13305) |  | silver3 |
+
