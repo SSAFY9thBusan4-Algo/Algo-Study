@@ -162,8 +162,18 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 ### 🚩 week 6
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 2252 | [줄세우기](https://www.acmicpc.net/problem/2252) |  | gold3 |
-| BOJ | 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |  | gold5 |
-| BOJ | 10282 | [해킹](https://www.acmicpc.net/problem/10282) |  | gold4 |
-| BOJ | 13305 | [주유소](https://www.acmicpc.net/problem/13305) |  | silver3 |
+| BOJ | 2252 | [줄세우기](https://www.acmicpc.net/problem/2252) | 위상 정렬 | gold3 |
+| BOJ | 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | BFS | gold5 |
+| BOJ | 10282 | [해킹](https://www.acmicpc.net/problem/10282) | Dijkstra | gold4 |
+| BOJ | 13305 | [주유소](https://www.acmicpc.net/problem/13305) | 그리디 | silver3 |
+
+### 🚩 week 7
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 10775 | [공항](https://www.acmicpc.net/problem/10775) |  | gold2 |
+| BOJ | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |  | gold3 |
+| BOJ | 2665 | [미로만들기](https://www.acmicpc.net/problem/2665) |  | gold4 |
+| BOJ | 2174 | [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) |  | gold5 |
+| BOJ | 1743 | [음식물 피하기](https://www.acmicpc.net/problem/1743) |  | silver1 |
+
 
