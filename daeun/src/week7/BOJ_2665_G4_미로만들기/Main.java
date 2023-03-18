@@ -1,4 +1,4 @@
-package week7.BOJ_2665_G4_미로만들기; //처음에는 끝에 도착하면 끝나게 해서..
+package week7.BOJ_2665_G4_미로만들기; 
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -31,7 +31,7 @@ public class Main {
 		}
 		
 		result = Integer.MAX_VALUE;
-		fs(1, 1);
+		bfs(1, 1);
 		System.out.println(result);
 	}
 
