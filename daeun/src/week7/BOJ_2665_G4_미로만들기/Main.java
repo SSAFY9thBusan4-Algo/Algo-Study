@@ -31,11 +31,11 @@ public class Main {
 		}
 		
 		result = Integer.MAX_VALUE;
-		dfs(1, 1);
+		fs(1, 1);
 		System.out.println(result);
 	}
 
-	private static void dfs(int x, int y) {
+	private static void bfs(int x, int y) {
 		Queue<int[]> queue = new ArrayDeque<>();
 		queue.offer(new int[] { x, y, 0 }); // x좌표, y좌표, 뚫은 벽
 		visit[x][y] = 0;
