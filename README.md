@@ -170,10 +170,19 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 ### 🚩 week 7
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 10775 | [공항](https://www.acmicpc.net/problem/10775) |  | gold2 |
-| BOJ | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |  | gold3 |
-| BOJ | 2665 | [미로만들기](https://www.acmicpc.net/problem/2665) |  | gold4 |
-| BOJ | 2174 | [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) |  | gold5 |
-| BOJ | 1743 | [음식물 피하기](https://www.acmicpc.net/problem/1743) |  | silver1 |
+| BOJ | 10775 | [공항](https://www.acmicpc.net/problem/10775) | bfs | gold2 |
+| BOJ | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | bfs | gold3 |
+| BOJ | 2665 | [미로만들기](https://www.acmicpc.net/problem/2665) | bfs | gold4 |
+| BOJ | 2174 | [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) | 구현 | gold5 |
+| BOJ | 1743 | [음식물 피하기](https://www.acmicpc.net/problem/1743) | bfs | silver1 |
+
+### 🚩 week 8
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 6593 | [상범 빌딩](https://www.acmicpc.net/problem/6593) | bfs | gold5 |
+| BOJ | 9328 | [열쇠](https://www.acmicpc.net/problem/9328) | 구현 bfs | gold1 |
+| BOJ | 20055 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | 구현 | gold5 |
+| BOJ | 2638 | [치즈](https://www.acmicpc.net/problem/2638) |  | gold3 |
+| BOJ | 14719 | [빗물](https://www.acmicpc.net/problem/14719) |  | gold5 |
 
 
