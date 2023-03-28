@@ -189,9 +189,9 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) |  | gold4|
-| BOJ | 2632 | [피자판매(https://www.acmicpc.net/problem/2632) |   | gold2|
+| BOJ | 2632 | [피자판매](https://www.acmicpc.net/problem/2632) |   | gold2|
 | BOJ | 1005 | [ACM Craft](https://www.acmicpc.net/problem/1005) |  | gold3|
-| BOJ | 1043 | [거짓말(https://www.acmicpc.net/problem/1043) |  | gold4|
+| BOJ | 1043 | [거짓말](https://www.acmicpc.net/problem/1043) |  | gold4|
 | BOJ | 21318 | [피아노 체조](https://www.acmicpc.net/problem/21318) |  | silver1|
 
 
