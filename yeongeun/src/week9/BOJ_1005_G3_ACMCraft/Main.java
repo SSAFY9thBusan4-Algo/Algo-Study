@@ -7,6 +7,10 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 
 public class Main {
+
+	private static int N, K, W;
+	private static int[] craftTime, previousCraft;
+	private static Node[] nextAcm;
 	
 	private static class Node {
 		int num;
@@ -31,11 +35,25 @@ public class Main {
 			return (stime+ctime) - (o.stime + o.ctime);
 		}
 	}
+
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringBuilder sb = new StringBuilder();
+		
+		int T = Integer.parseInt(br.readLine());
+		for(int tc = 1 ; tc <= T; tc++) {
+			input(br);
+			
+			Queue<Craft> startPoint = getStartPoint();
+			int minTime = run(startPoint);
+			
+			sb.append(minTime).append('\n');
+		}
+		
+		System.out.println(sb);
+	}
 	
-	private static int N, K, W;
-	private static int[] craftTime, previousCraft;
-	private static Node[] nextAcm;
-	
+	// 입력받기
 	private static void input(BufferedReader br) throws IOException {
 		String[] input = br.readLine().split(" ");
 		N = Integer.parseInt(input[0]);
@@ -62,22 +80,6 @@ public class Main {
 		W = Integer.parseInt(br.readLine());
 	}
 
-	public static void main(String[] args) throws NumberFormatException, IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringBuilder sb = new StringBuilder();
-		
-		int T = Integer.parseInt(br.readLine());
-		for(int tc = 1 ; tc <= T; tc++) {
-			input(br);
-			
-			Queue<Craft> startPoint = getStartPoint();
-			int minTime = run(startPoint);
-			
-			sb.append(minTime).append('\n');
-		}
-		
-		System.out.println(sb);
-	}
 
 	private static Queue<Craft> getStartPoint() {
 		Queue<Craft> list = new PriorityQueue<>();
@@ -101,7 +103,7 @@ public class Main {
 			if(cur.num == W) return cur.stime+cur.ctime;
 			
 			for(Node node = nextAcm[cur.num] ; node != null; node = node.link) {
-				if(--previousCraft[node.num] == 0) {
+				if(--previousCraft[node.num] == 0) {	// 0이되면 큐에넣기
 					queue.offer(new Craft(node.num, cur.stime+cur.ctime, craftTime[node.num]));
 				}
 			}
