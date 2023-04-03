@@ -1,4 +1,4 @@
-## Week9 BOJ 11559 G4 PuyoPuyo
+## Week9 BOJ 2632 G2 피자판매
 
 ### 접근방법
 
