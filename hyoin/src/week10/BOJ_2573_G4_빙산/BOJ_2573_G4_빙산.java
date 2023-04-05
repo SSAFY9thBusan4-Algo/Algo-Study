@@ -59,7 +59,7 @@ public class BOJ_2573_G4_빙산 {
 
 		int result = 0;
 		while (true) {
-			// 녹을 수 있는 빙산 list에 넣기
+			// 빙산 list에 넣기(빙산의 xy좌표, 인접한 바다의 개수)
 			List<Node> list = new ArrayList<>();
 			for (int i = 0; i < N; i++) {
 				for (int j = 0; j < M; j++) {
