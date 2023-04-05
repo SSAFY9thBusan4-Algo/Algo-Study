@@ -188,10 +188,18 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 ### 🚩 week 9
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) |  | gold4|
-| BOJ | 2632 | [피자판매](https://www.acmicpc.net/problem/2632) |   | gold2|
-| BOJ | 1005 | [ACM Craft](https://www.acmicpc.net/problem/1005) |  | gold3|
-| BOJ | 1043 | [거짓말](https://www.acmicpc.net/problem/1043) |  | gold4|
-| BOJ | 21318 | [피아노 체조](https://www.acmicpc.net/problem/21318) |  | silver1|
+| BOJ | 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | DFS/BFS, 구현 | gold4|
+| BOJ | 2632 | [피자판매](https://www.acmicpc.net/problem/2632) | DP | gold2|
+| BOJ | 1005 | [ACM Craft](https://www.acmicpc.net/problem/1005) | 그래프 | gold3|
+| BOJ | 1043 | [거짓말](https://www.acmicpc.net/problem/1043) | 그래프 | gold4|
+| BOJ | 21318 | [피아노 체조](https://www.acmicpc.net/problem/21318) | DP | silver1|
+
+### 🚩 week 10
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 14925 | [목장 건설하기](https://www.acmicpc.net/problem/14925) | DP | gold4|
+| BOJ | 2573 | [빙산](https://www.acmicpc.net/problem/2573) | 그래프 | gold4|
+| BOJ | 14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | 구현 | gold4|
+| BOJ | 1715 | [카드 정렬하기](https://www.acmicpc.net/problem/1715) | 그래프 | gold4|
 
 
