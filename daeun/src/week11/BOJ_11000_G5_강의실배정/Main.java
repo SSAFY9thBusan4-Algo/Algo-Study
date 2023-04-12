@@ -37,9 +37,9 @@ public class Main {
     
 		while(!pq.isEmpty()) {
 			Class now = pq.poll();
-      //통과한 녀석의 끝나는 시간이랑 비교해서 가능한 시간이라면
+      			//통과한 녀석의 끝나는 시간이랑 비교해서 가능한 시간이라면
 			if(!pass.isEmpty() && now.start >= pass.peek()) { 
-				pass.poll(); 
+				pass.poll(); //다음 비교를 위해 현재 들어있는 것을 빼고 지금 수업을 넣음
 			}
 			pass.offer(now.end);
 		}
