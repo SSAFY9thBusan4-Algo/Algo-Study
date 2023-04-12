@@ -202,4 +202,12 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | BOJ | 14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | 구현 | gold4|
 | BOJ | 1715 | [카드 정렬하기](https://www.acmicpc.net/problem/1715) | 그래프 | gold4|
 
+### 🚩 week 11
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 1516 | [게임 개발](https://www.acmicpc.net/problem/1516) |   | gold3|
+| BOJ | 9019 | [DSLR](https://www.acmicpc.net/problem/9019) |  | gold4|
+| BOJ | 21611 | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) |  | gold1|
+| BOJ | 11000 | [강의실 배정](https://www.acmicpc.net/problem/11000) |  | gold5|
+
 
