@@ -53,7 +53,7 @@ public class Main {
 		int[] result = new int[N+1];
 		int[] enter = new int[N+1];
 		
-		PriorityQueue<Integer> queue = new PriorityQueue<>();
+		Queue<Integer> queue = new ArrayDeque<>();
 		for(int i = 1; i <= N; i++) {
 			if(precnt[i] == 0) queue.offer(i);
 		}
