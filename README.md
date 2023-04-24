@@ -197,17 +197,26 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 ### 🚩 week 10
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 14925 | [목장 건설하기](https://www.acmicpc.net/problem/14925) | DP | gold4|
-| BOJ | 2573 | [빙산](https://www.acmicpc.net/problem/2573) | 그래프 | gold4|
-| BOJ | 14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | 구현 | gold4|
-| BOJ | 1715 | [카드 정렬하기](https://www.acmicpc.net/problem/1715) | 그래프 | gold4|
+| BOJ | 14925 | [목장 건설하기](https://www.acmicpc.net/problem/14925) | DP | gold4 |
+| BOJ | 2573 | [빙산](https://www.acmicpc.net/problem/2573) | 그래프 | gold4 |
+| BOJ | 14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | 구현 | gold4 |
+| BOJ | 1715 | [카드 정렬하기](https://www.acmicpc.net/problem/1715) | 그래프 | gold4 |
 
 ### 🚩 week 11
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 1516 | [게임 개발](https://www.acmicpc.net/problem/1516) |   | gold3|
-| BOJ | 9019 | [DSLR](https://www.acmicpc.net/problem/9019) |  | gold4|
-| BOJ | 21611 | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) |  | gold1|
-| BOJ | 11000 | [강의실 배정](https://www.acmicpc.net/problem/11000) |  | gold5|
+| BOJ | 1516 | [게임 개발](https://www.acmicpc.net/problem/1516) | 위상 정렬 | gold3 |
+| BOJ | 9019 | [DSLR](https://www.acmicpc.net/problem/9019) | 구현 | gold4 |
+| BOJ | 21611 | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) | 구현 | gold1 |
+| BOJ | 11000 | [강의실 배정](https://www.acmicpc.net/problem/11000) | 우선순위큐 | gold5 |
+
+### 🚩 week 12
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 1796 | [신기한 키보드](https://www.acmicpc.net/problem/1796) |  | gold4 |
+| BOJ | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) |  | gold5 |
+| BOJ | 3020 | [개똥벌레 ](https://www.acmicpc.net/problem/3020) |  | gold5 |
+| BOJ | 2310 | [어드벤처 게임](https://www.acmicpc.net/problem/2310) |  | gold4 |
+| BOJ | 20920 | [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) |  | siver3 |
 
 
