@@ -213,10 +213,19 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 ### 🚩 week 12
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 1796 | [신기한 키보드](https://www.acmicpc.net/problem/1796) |  | gold4 |
-| BOJ | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) |  | gold5 |
-| BOJ | 3020 | [개똥벌레 ](https://www.acmicpc.net/problem/3020) |  | gold5 |
-| BOJ | 2310 | [어드벤처 게임](https://www.acmicpc.net/problem/2310) |  | gold4 |
-| BOJ | 20920 | [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) |  | siver3 |
+| BOJ | 1796 | [신기한 키보드](https://www.acmicpc.net/problem/1796) | dp | gold4 |
+| BOJ | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | dfs/bfs | gold5 |
+| BOJ | 3020 | [개똥벌레 ](https://www.acmicpc.net/problem/3020) | dp | gold5 |
+| BOJ | 2310 | [어드벤처 게임](https://www.acmicpc.net/problem/2310) | dfs/bfs | gold4 |
+| BOJ | 20920 | [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) | 문자열/자료구조 | siver3 |
+
+### 🚩 week 13
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 2879 | [코딩은 예쁘게](https://www.acmicpc.net/problem/2879) |  | gold3 |
+| BOJ | 13164 | [행복 유치원](https://www.acmicpc.net/problem/13164) |  | gold5 |
+| BOJ | 9935 | [문자열 폭발](https://www.acmicpc.net/problem/9935) |  | gold4 |
+| BOJ | 22251 | [빌런 호석](https://www.acmicpc.net/problem/22251) |  | gold5 |
+
 
 
