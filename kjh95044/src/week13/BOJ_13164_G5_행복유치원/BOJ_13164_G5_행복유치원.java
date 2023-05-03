@@ -29,7 +29,6 @@ public class Main {
 		// 2. 각 조별로 가장 키가 큰 원생과 가장 키가 작은 원생의 차이가 비용이 된다.
 		// 3. 최소 비용은 얼마인가?
 		
-		Arrays.sort(map);
 		List<Integer> list = new ArrayList<>();
 
         for (int i = 1; i < N; i++) {
