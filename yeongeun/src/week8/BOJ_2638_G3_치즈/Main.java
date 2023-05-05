@@ -1,3 +1,5 @@
+package src.week8.BOJ_2638_G3_치즈;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

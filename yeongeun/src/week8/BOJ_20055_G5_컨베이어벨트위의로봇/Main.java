@@ -1,3 +1,5 @@
+package src.week8.BOJ_20055_G5_컨베이어벨트위의로봇;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
