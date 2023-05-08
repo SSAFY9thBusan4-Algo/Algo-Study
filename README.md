@@ -222,10 +222,20 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 ### 🚩 week 13
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 2879 | [코딩은 예쁘게](https://www.acmicpc.net/problem/2879) |  | gold3 |
-| BOJ | 13164 | [행복 유치원](https://www.acmicpc.net/problem/13164) |  | gold5 |
-| BOJ | 9935 | [문자열 폭발](https://www.acmicpc.net/problem/9935) |  | gold4 |
-| BOJ | 22251 | [빌런 호석](https://www.acmicpc.net/problem/22251) |  | gold5 |
+| BOJ | 2879 | [코딩은 예쁘게](https://www.acmicpc.net/problem/2879) | 그리디 | gold3 |
+| BOJ | 13164 | [행복 유치원](https://www.acmicpc.net/problem/13164) | 그리디 | gold5 |
+| BOJ | 9935 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | 자료구조 | gold4 |
+| BOJ | 22251 | [빌런 호석](https://www.acmicpc.net/problem/22251) | 구현 | gold5 |
+
+### 🚩 week 14
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 16463 | [13일의 금요일](https://www.acmicpc.net/problem/16463) | 구현 | siver3 |
+| BOJ | 2866 | [문자열 잘라내기](https://www.acmicpc.net/problem/2866) | 자료구조 | gold5 |
+| BOJ | 2529 | [부등호](https://www.acmicpc.net/problem/2529) | 백트래킹 | siver1 |
+| BOJ | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | bfs | siver2 |
+| BOJ | 2668 | [숫자고르기](https://www.acmicpc.net/problem/2668) | dfs | gold5 |
+
 
 
 
