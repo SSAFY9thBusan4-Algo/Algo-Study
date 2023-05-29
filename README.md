@@ -236,6 +236,22 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | BOJ | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | bfs | siver2 |
 | BOJ | 2668 | [숫자고르기](https://www.acmicpc.net/problem/2668) | dfs | gold5 |
 
+### 🚩 week 15
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 16139 | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | 누적 합 | siver1 |
+| BOJ | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | 구현 | gold4 |
+| BOJ | 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | 자료 구조 | gold4 |
+| BOJ | 1461 | [도서관](https://www.acmicpc.net/problem/1461) | 그리디 | gold5 |
+
+### 🚩 week 16
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 14620 | [꽃길](https://www.acmicpc.net/problem/14620) | 브루트포스 | siver2 |
+| BOJ | 2166 | [다각형의 면적](https://www.acmicpc.net/problem/2166) | 기하학 | gold5 |
+| BOJ | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | 백트래킹 | 두 포인터 |
+| BOJ | 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | bfs | gold3 |
+
 
 
 
