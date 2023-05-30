@@ -249,8 +249,16 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | -- |--| -- |--|--|
 | BOJ | 14620 | [꽃길](https://www.acmicpc.net/problem/14620) | 브루트포스 | siver2 |
 | BOJ | 2166 | [다각형의 면적](https://www.acmicpc.net/problem/2166) | 기하학 | gold5 |
-| BOJ | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | 백트래킹 | 두 포인터 |
+| BOJ | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | 두 포인터 | siver1 |
 | BOJ | 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | bfs | gold3 |
+
+### 🚩 week 17
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 1647 | [도시 분할 계획](https://www.acmicpc.net/problem/1647) | 최소 스패닝 트리 | gold4 |
+| BOJ | 18430 | [무기 공학](https://www.acmicpc.net/problem/18430) | 백트레킹 | gold4 |
+| BOJ | 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | DP | silver1 |
+| BOJ | 12886 | [돌 그룹](https://www.acmicpc.net/problem/12886) | bfs | gold4 |
 
 
 
