@@ -19,7 +19,7 @@ public class Main {
 		d[2][2] = d[1][1] + arr[2];
 		
 		for(int i=3; i<=n; i++) {
-			d[i][0] = Math.max(getMax(d[i-1]), getMax(d[i-2])); // 안마시는 경우
+			d[i][0] = getMax(d[i-1]); // 안마시는 경우
 			d[i][1] = getMax(d[i-2]) + arr[i]; // 마시는 경우
 			d[i][2] = d[i-1][1] + arr[i]; // 연속으로 마시는 경우
 		}
