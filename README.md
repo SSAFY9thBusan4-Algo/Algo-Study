@@ -11,6 +11,8 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
     <td align="center"><a href="https://github.com/YoungEun-Choi930"><img src="https://avatars.githubusercontent.com/u/69569809?s=96&v=4" width="120px;" alt=""/><br /><sub><b>최영은</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/HyoinJeong"><img src="https://avatars.githubusercontent.com/u/52451420?s=64&v=4" width="120px;" alt=""/><br /><sub><b>정효인</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/emoving"><img src="https://avatars.githubusercontent.com/u/82428892?v=4" width="120px;" alt=""/><br /><sub><b>이동주</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Harinee68"><img src="https://avatars.githubusercontent.com/u/62701446?v=4" width="120px;" alt=""/><br /><sub><b>이하린</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Amenable-C"><img src="https://avatars.githubusercontent.com/u/61836238?v=4" width="120px;" alt=""/><br /><sub><b>최연재</b></sub></a><br /></td>
   </tr>
 </table>
 
@@ -21,6 +23,8 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duddms0190)](https://solved.ac/duddms0190)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiamy0107)](https://solved.ac/hiamy0107)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leednj0113)](https://solved.ac/leednj0113)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlwls608)](https://solved.ac/gmlwls608)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=amenable_c)](https://solved.ac/amenable_c)
 <br><br>
 
 ## 📌 Rule
@@ -249,8 +253,16 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | -- |--| -- |--|--|
 | BOJ | 14620 | [꽃길](https://www.acmicpc.net/problem/14620) | 브루트포스 | siver2 |
 | BOJ | 2166 | [다각형의 면적](https://www.acmicpc.net/problem/2166) | 기하학 | gold5 |
-| BOJ | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | 백트래킹 | 두 포인터 |
+| BOJ | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | 두 포인터 | siver1 |
 | BOJ | 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | bfs | gold3 |
+
+### 🚩 week 17
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 1647 | [도시 분할 계획](https://www.acmicpc.net/problem/1647) | 최소 스패닝 트리 | gold4 |
+| BOJ | 18430 | [무기 공학](https://www.acmicpc.net/problem/18430) | 백트레킹 | gold4 |
+| BOJ | 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | DP | silver1 |
+| BOJ | 12886 | [돌 그룹](https://www.acmicpc.net/problem/12886) | bfs | gold4 |
 
 
 
