@@ -264,6 +264,16 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | BOJ | 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | DP | silver1 |
 | BOJ | 12886 | [돌 그룹](https://www.acmicpc.net/problem/12886) | bfs | gold4 |
 
+### 🚩 week 18
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 16197 | [두 동전](https://www.acmicpc.net/problem/16197) | 백트래킹 | gold4 |
+| BOJ | 17836 | [공주님을 구해라!](https://www.acmicpc.net/problem/17836) | bfs | gold4 |
+| BOJ | 2666 | [벽장문의 이동](https://www.acmicpc.net/problem/2666) | dp | silver1 |
+| BOJ | 17218 | [비밀번호 만들기](https://www.acmicpc.net/problem/17218) | dp | gold4 |
+| BOJ | 1937 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | dp dfs | gold4 |
+
+
 
 
 
