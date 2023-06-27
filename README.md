@@ -28,7 +28,7 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 <br><br>
 
 ## 📌 Rule
-각자 문제를 선정하여 매주 4~12문제를 풉니다.
+각자 문제를 선정하여 매주 4~5문제를 풉니다.
 매주 월요일 카카오톡 공지방에 댓글로 문제를 등록합니다.
 * ❗❗ 문제풀이 마감 : 매주 월요일 23:59 까지
 * ❕❕ 리뷰 마감 : 매주 화요일 23:59 까지
@@ -272,6 +272,14 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | BOJ | 2666 | [벽장문의 이동](https://www.acmicpc.net/problem/2666) | dp | silver1 |
 | BOJ | 17218 | [비밀번호 만들기](https://www.acmicpc.net/problem/17218) | dp | gold4 |
 | BOJ | 1937 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | dp dfs | gold4 |
+
+### 🚩 week 19
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 2615 | [오목](https://www.acmicpc.net/problem/2615) | 구현 | silver1 |
+| BOJ | 14938 | [서강그라운드](https://www.acmicpc.net/problem/14938) | 데이크스트라 | gold4 |
+| BOJ | 8983 | [사냥꾼](https://www.acmicpc.net/problem/8983) | 정렬, 이분 탐색 | gold4 |
+| BOJ | 22945 | [팀 빌딩](https://www.acmicpc.net/problem/22945) | 두 포인터 | gold4 |
 
 
 
