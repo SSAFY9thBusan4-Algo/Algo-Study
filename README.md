@@ -281,6 +281,21 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | BOJ | 8983 | [사냥꾼](https://www.acmicpc.net/problem/8983) | 정렬, 이분 탐색 | gold4 |
 | BOJ | 22945 | [팀 빌딩](https://www.acmicpc.net/problem/22945) | 두 포인터 | gold4 |
 
+### 🚩 week 20
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 12904 | [A와 B](https://www.acmicpc.net/problem/12904) | 그리디 | gold5 |
+| BOJ | 1238 | [파티](https://www.acmicpc.net/problem/1238) | 데이크스트라 | gold3 |
+| BOJ | 1188 | [음식 평론가](https://www.acmicpc.net/problem/1188) | 수학 | gold4 |
+| BOJ | 1749 | [점수따먹기](https://www.acmicpc.net/problem/1749) | DP, 브루트포스 | gold4 |
+
+### 🚩 week 21
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 1726 | [로봇](https://www.acmicpc.net/problem/1726) | BFS | gold3 |
+| BOJ | 2448 | [별찍기_11](https://www.acmicpc.net/problem/2448) | 재귀 | gold4 |
+| BOJ | 1744 | [수 묶기](https://www.acmicpc.net/problem/1744) | 그리디 | gold4 |
+| BOJ | 2623 | [점수따먹기](https://www.acmicpc.net/problem/2623) | 위상 정렬 | gold3 |
 
 
 
