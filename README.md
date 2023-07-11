@@ -295,7 +295,7 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | BOJ | 1726 | [로봇](https://www.acmicpc.net/problem/1726) | BFS | gold3 |
 | BOJ | 2448 | [별찍기_11](https://www.acmicpc.net/problem/2448) | 재귀 | gold4 |
 | BOJ | 1744 | [수 묶기](https://www.acmicpc.net/problem/1744) | 그리디 | gold4 |
-| BOJ | 2623 | [점수따먹기](https://www.acmicpc.net/problem/2623) | 위상 정렬 | gold3 |
+| BOJ | 2623 | [음악프로그램](https://www.acmicpc.net/problem/2623) | 위상 정렬 | gold3 |
 
 
 
