@@ -55,7 +55,6 @@ public class Main {
 					map[i][j] = 0;
 					map[i][j+1] = 0;
 				}
-				
 			}
 		}
 	}
