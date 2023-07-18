@@ -11,6 +11,8 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
     <td align="center"><a href="https://github.com/YoungEun-Choi930"><img src="https://avatars.githubusercontent.com/u/69569809?s=96&v=4" width="120px;" alt=""/><br /><sub><b>최영은</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/HyoinJeong"><img src="https://avatars.githubusercontent.com/u/52451420?s=64&v=4" width="120px;" alt=""/><br /><sub><b>정효인</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/emoving"><img src="https://avatars.githubusercontent.com/u/82428892?v=4" width="120px;" alt=""/><br /><sub><b>이동주</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Harinee68"><img src="https://avatars.githubusercontent.com/u/62701446?v=4" width="120px;" alt=""/><br /><sub><b>이하린</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Amenable-C"><img src="https://avatars.githubusercontent.com/u/61836238?v=4" width="120px;" alt=""/><br /><sub><b>최연재</b></sub></a><br /></td>
   </tr>
 </table>
 
@@ -21,10 +23,12 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duddms0190)](https://solved.ac/duddms0190)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiamy0107)](https://solved.ac/hiamy0107)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leednj0113)](https://solved.ac/leednj0113)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlwls608)](https://solved.ac/gmlwls608)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=amenable_c)](https://solved.ac/amenable_c)
 <br><br>
 
 ## 📌 Rule
-각자 문제를 선정하여 매주 4~12문제를 풉니다.
+각자 문제를 선정하여 매주 4~5문제를 풉니다.
 매주 월요일 카카오톡 공지방에 댓글로 문제를 등록합니다.
 * ❗❗ 문제풀이 마감 : 매주 월요일 23:59 까지
 * ❕❕ 리뷰 마감 : 매주 화요일 23:59 까지
@@ -235,6 +239,63 @@ SSAFY 9기 부울경 4반 알고리즘 스터디 기록
 | BOJ | 2529 | [부등호](https://www.acmicpc.net/problem/2529) | 백트래킹 | siver1 |
 | BOJ | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | bfs | siver2 |
 | BOJ | 2668 | [숫자고르기](https://www.acmicpc.net/problem/2668) | dfs | gold5 |
+
+### 🚩 week 15
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 16139 | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | 누적 합 | siver1 |
+| BOJ | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | 구현 | gold4 |
+| BOJ | 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | 자료 구조 | gold4 |
+| BOJ | 1461 | [도서관](https://www.acmicpc.net/problem/1461) | 그리디 | gold5 |
+
+### 🚩 week 16
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 14620 | [꽃길](https://www.acmicpc.net/problem/14620) | 브루트포스 | siver2 |
+| BOJ | 2166 | [다각형의 면적](https://www.acmicpc.net/problem/2166) | 기하학 | gold5 |
+| BOJ | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | 두 포인터 | siver1 |
+| BOJ | 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | bfs | gold3 |
+
+### 🚩 week 17
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 1647 | [도시 분할 계획](https://www.acmicpc.net/problem/1647) | 최소 스패닝 트리 | gold4 |
+| BOJ | 18430 | [무기 공학](https://www.acmicpc.net/problem/18430) | 백트레킹 | gold4 |
+| BOJ | 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | DP | silver1 |
+| BOJ | 12886 | [돌 그룹](https://www.acmicpc.net/problem/12886) | bfs | gold4 |
+
+### 🚩 week 18
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 16197 | [두 동전](https://www.acmicpc.net/problem/16197) | 백트래킹 | gold4 |
+| BOJ | 17836 | [공주님을 구해라!](https://www.acmicpc.net/problem/17836) | bfs | gold4 |
+| BOJ | 2666 | [벽장문의 이동](https://www.acmicpc.net/problem/2666) | dp | silver1 |
+| BOJ | 17218 | [비밀번호 만들기](https://www.acmicpc.net/problem/17218) | dp | gold4 |
+| BOJ | 1937 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | dp dfs | gold4 |
+
+### 🚩 week 19
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 2615 | [오목](https://www.acmicpc.net/problem/2615) | 구현 | silver1 |
+| BOJ | 14938 | [서강그라운드](https://www.acmicpc.net/problem/14938) | 데이크스트라 | gold4 |
+| BOJ | 8983 | [사냥꾼](https://www.acmicpc.net/problem/8983) | 정렬, 이분 탐색 | gold4 |
+| BOJ | 22945 | [팀 빌딩](https://www.acmicpc.net/problem/22945) | 두 포인터 | gold4 |
+
+### 🚩 week 20
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 12904 | [A와 B](https://www.acmicpc.net/problem/12904) | 그리디 | gold5 |
+| BOJ | 1238 | [파티](https://www.acmicpc.net/problem/1238) | 데이크스트라 | gold3 |
+| BOJ | 1188 | [음식 평론가](https://www.acmicpc.net/problem/1188) | 수학 | gold4 |
+| BOJ | 1749 | [점수따먹기](https://www.acmicpc.net/problem/1749) | DP, 브루트포스 | gold4 |
+
+### 🚩 week 21
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 1726 | [로봇](https://www.acmicpc.net/problem/1726) | BFS | gold3 |
+| BOJ | 2448 | [별찍기_11](https://www.acmicpc.net/problem/2448) | 재귀 | gold4 |
+| BOJ | 1744 | [수 묶기](https://www.acmicpc.net/problem/1744) | 그리디 | gold4 |
+| BOJ | 2623 | [음악프로그램](https://www.acmicpc.net/problem/2623) | 위상 정렬 | gold3 |
 
 
 
